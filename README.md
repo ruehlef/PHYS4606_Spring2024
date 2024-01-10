@@ -64,9 +64,7 @@ To access Mathematica follow <a href="https://service.northeastern.edu/tech?id=k
 
 ```jupyter notebook```
 
- 
-
-### Option 2: Google Colab (python online)
+### Option 2: Google Colab (Python online)
 This option requires a google account. Once you have one setup, follow the steps at <a href="https://colab.research.google.com/" target="_blank">https://colab.research.google.com/</a>.
 
 
