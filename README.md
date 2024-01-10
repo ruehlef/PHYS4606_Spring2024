@@ -17,11 +17,11 @@ To access Mathematica follow <a href="https://service.northeastern.edu/tech?id=k
   
 2.) Create a virtual environment: execute the command
 
-```python3 -m venv ~/tutorialsvenv```
+```python3 -m venv ~/venv-phys4606```
 
 3.) Activate the environment (needs to be done every time):
 
-```source ~/tutorialsvenv/bin/activate```
+```source ~/venv-phys4606/bin/activate```
 
 4.) Update the package manager (needs to be done only once):
 
@@ -50,13 +50,13 @@ To access Mathematica follow <a href="https://service.northeastern.edu/tech?id=k
 
 ```pip install virtualenv```
 
-5.) Create a virtual environment: execute the command
+5.) Create a virtual environment: execute the command (replace ``C:\Path\To\Python\`` with the path into which you installed Python)
 
-```virtualenv --python C:\Path\To\Python\python.exe tutorialsvenv```
+```virtualenv --python C:\Path\To\Python\python.exe venv-phys4606```
 
 6.) Activate the environment (needs to be done every time):
 
-```.\tutorialsvenv\Scripts\activate```
+```.\venv-phys4606\Scripts\activate```
 
 7.) Install the required packages (needs to be done only once):
 
