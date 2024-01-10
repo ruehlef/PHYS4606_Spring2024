@@ -10,7 +10,9 @@ To access Mathematica follow <a href="https://service.northeastern.edu/tech?id=k
 
 #### For Linux and Mac users:
 1.) Open a terminal:
+
   On Linux press: Ctrl + Alt + T
+  
   On Mac press: command+space, type ``terminal``, press enter
   
 2.) Create a virtual environment: execute the command
