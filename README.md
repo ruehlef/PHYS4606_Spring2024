@@ -2,7 +2,7 @@
 This repository contains material for the class PHYS4606 - Mathematical and Computational Methods for Physics. We will use Python and Mathematica in this class. Python is free and there is a free Mathematica license for Northeastern students.
 
 ## Software installation (Mathematica)
-To access Mathematica follow <a target=_blank href="https://service.northeastern.edu/tech?id=kb_article_view&sysparm_article=KB0012562&sys_kb_id=ff8b3ef6874771d43b170e96cebb3518&spa=1">these instructions</a>.
+To access Mathematica follow <a href="https://service.northeastern.edu/tech?id=kb_article_view&sysparm_article=KB0012562&sys_kb_id=ff8b3ef6874771d43b170e96cebb3518&spa=1" target="_blank">these instructions</a>.
 
 ## Software installation (Python)
 
@@ -67,7 +67,7 @@ To access Mathematica follow <a target=_blank href="https://service.northeastern
  
 
 ### Option 2: Google Colab (python online)
-This option requires a google account. Once you have one setup, follow the steps at <a target=_blank href="https://colab.research.google.com/">https://colab.research.google.com/</a>.
+This option requires a google account. Once you have one setup, follow the steps at <a href="https://colab.research.google.com/" target="_blank">https://colab.research.google.com/</a>.
 
 
 
